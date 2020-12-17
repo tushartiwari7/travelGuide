@@ -1,2 +1,2 @@
-# travelGuide
+# emojiInterpreter
 Created with CodeSandbox

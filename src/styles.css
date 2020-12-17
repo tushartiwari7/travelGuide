@@ -1,0 +1,59 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.heading {
+  margin: 0px 15px 15px 0px;
+  
+}
+.menu {
+  width: 80%;
+  display: flex;
+  margin: 5px 5px 10px 5px;
+  padding: 0px;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.bg-warrning {
+margin-top: 0px;
+}
+.menu li {
+list-style: none;
+margin: 5px;
+}
+input {
+padding: 1rem;
+width: 80%
+}
+.showAllEmoji {
+width: 80%;
+margin-left: auto;
+margin-right: auto;
+}
+.showAllEmoji span {
+padding-top: 10px;
+display: inline-block;
+}
+.container {
+background-color: beige;
+}
+.showMeaning {
+margin-left: 0px;
+margin-right: 0px;
+padding: 10px;
+}
+.list-group {
+  width: 70vw;
+  margin-left: auto;
+  margin-right: auto;
+}
+.list-group-item {
+text-align: left;
+list-style: none;
+margin-bottom: 20px;
+}
+.list-group-item small {
+display: 
+}

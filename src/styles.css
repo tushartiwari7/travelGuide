@@ -27,15 +27,6 @@ input {
 padding: 1rem;
 width: 80%
 }
-.showAllEmoji {
-width: 80%;
-margin-left: auto;
-margin-right: auto;
-}
-.showAllEmoji span {
-padding-top: 10px;
-display: inline-block;
-}
 .container {
 background-color: beige;
 }
@@ -56,4 +47,19 @@ margin-bottom: 20px;
 }
 .list-group-item small {
 display: 
+}
+.credits {
+	background: #ffe38e;
+	color: #000;
+	text-align: center;
+	padding: 10px;
+}
+
+.credits a {
+	color: #444;
+    text-decoration: none;
+    
+}
+.credits a:hover {
+    color: rgb(0, 26, 255);  
 }

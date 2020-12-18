@@ -92,6 +92,16 @@ var shopping = [
     name: "22 Market",
     place: "Sector-22",
     rating: "4.2/5"
+  },
+  {
+    name: "15 Market",
+    place: "Sector-15",
+    rating: "4.1/5"
+  },
+  {
+    name: "Krishna Market",
+    place: "Sector-41",
+    rating: "4.1/5"
   }
 ];
 var nightlife = [
@@ -187,6 +197,9 @@ export default function App() {
           </li>
         ))}
       </ul>
+      <div className="credits">
+      Made with <span role="img" aria-label="heart Emoji">❤️</span> by  <a href="https://www.linkedin.com/in/tushartiwari0172/"> Tushar Tiwari.</a>
+      </div>
     </div>
   );
 }

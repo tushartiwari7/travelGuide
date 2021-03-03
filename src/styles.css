@@ -4,6 +4,7 @@
 }
 .heading {
   margin: 0px 15px 15px 0px;
+  
 }
 .menu {
   width: 80%;
@@ -16,23 +17,23 @@
   margin-right: auto;
 }
 .bg-warrning {
-  margin-top: 0px;
+margin-top: 0px;
 }
 .menu li {
-  list-style: none;
-  margin: 5px;
+list-style: none;
+margin: 5px;
 }
 input {
-  padding: 1rem;
-  width: 80%;
+padding: 1rem;
+width: 80%
 }
 .container {
-  background-color: beige;
+background-color: beige;
 }
 .showMeaning {
-  margin-left: 0px;
-  margin-right: 0px;
-  padding: 10px;
+margin-left: 0px;
+margin-right: 0px;
+padding: 10px;
 }
 .list-group {
   width: 70vw;
@@ -40,41 +41,25 @@ input {
   margin-right: auto;
 }
 .list-group-item {
-  text-align: left;
-  list-style: none;
-  margin-bottom: 20px;
+text-align: left;
+list-style: none;
+margin-bottom: 20px;
 }
 .list-group-item small {
-  display: ;
+display: 
 }
 .credits {
-  background: #ffe38e;
-  color: #000;
-  text-align: center;
-  padding: 10px;
+	background: #ffe38e;
+	color: #000;
+	text-align: center;
+	padding: 10px;
 }
 
 .credits a {
-  color: #444;
-  text-decoration: none;
+	color: #444;
+    text-decoration: none;
+    
 }
 .credits a:hover {
-  color: rgb(0, 26, 255);
-}
-
-.Dropdown button {
-  border-radius: 5px;
-  margin-left: 5px;
-  background-color: teal;
-  color: white;
-  border: none;
-  padding: 2px 7px;
-}
-.Dropdown button:hover {
-  background-color: rgb(0, 110, 110);
-}
-
-.Dropdown select {
-  padding: 3px 5px;
-  border-radius: 5px;
+    color: rgb(0, 26, 255);  
 }
